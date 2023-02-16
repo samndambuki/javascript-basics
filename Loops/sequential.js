@@ -11,6 +11,7 @@ var pageNames = [
     "News",
     "Blog"
   ];
+
   for (i = 0; i < pageNames.length; i += 1) {
     if (document.title === pageNames[i]) {
       console.log("We ARE here: " + pageNames[i]);
@@ -18,3 +19,4 @@ var pageNames = [
       console.log("We are not here: " + pageNames[i]);
     }
   }
+
