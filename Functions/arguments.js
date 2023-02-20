@@ -14,4 +14,22 @@ function fuddify(speech) {
   speech = speech.replace(/R/g, "W");
 
   return speech;
+  var utterance = fuddify("You screwy rabbit");
+utterance;
+
+function isEven(num) {
+  if (num % 2 === 0) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+function isEven(num) {
+  return num % 2 === 0;
+}
+
+12 % 2;
+isEven(44);
+
 }
