@@ -1,17 +1,14 @@
-console.log('Arf');
-console.log('Woof');
-console.log('Meow');
-console.log('Moooooooooooo');
+// console.log('Sam');
+// console.log('John');
+// console.log('James');
+// console.log('Ndambuki');
 
-function speak() {
-	console.log('Arf');
-	console.log('Woof');
-	console.log('Meow');
-	console.log('Moooooooooooo');
+
+function speak(){
+	console.log('Sam');
+	console.log('John');
+	console.log('James');
+	console.log('Ndambuki')
 }
 
-speak();
-
-// More info:
-// https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Functions
-// https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/function
+speak(); //invoking the function
