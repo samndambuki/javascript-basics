@@ -1,35 +1,35 @@
-fuddify("Be very quiet, I'm hunting rabbits.");
-fuddify("You screwy rabbit.");
-fuddify("Rabbit tracks!");
+// jina("ndambuki");
 
-function fuddify(speech) {
-  // if it's not a string, return an error message
-  if (typeof speech !== "string") {
-    console.error("Nice twy, wabbit!");
-    return;
-  }
+// function jina(speech){
+//   if(typeof speech !== "string"){
+//     console.error("Nice name");
+//     return;
+//   }
 
-  // otherwise, make it sound like Elmer Fudd
-  speech = speech.replace(/r/g, "w");
-  speech = speech.replace(/R/g, "W");
+//   speech = speech.replace(/r/g,"w");
+//   speech = speech.replace(/R/g,"w");
 
-  return speech;
-  var utterance = fuddify("You screwy rabbit");
-utterance;
+//   return speech;
 
-function isEven(num) {
-  if (num % 2 === 0) {
+// }
+
+// var lastname = jina("ndambuki");
+
+function isEven(num){
+  if(num % 2 === 0){
     return true;
-  } else {
+  }
+  else{
     return false;
   }
 }
 
-function isEven(num) {
+function isEven(num){
   return num % 2 === 0;
 }
 
-12 % 2;
+12%2;
 isEven(44);
 
-}
+
+
