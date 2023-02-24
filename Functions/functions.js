@@ -12,3 +12,10 @@ function speak(){
 }
 
 speak(); //invoking the function
+
+function say(){
+	console.log('Hello Sam');
+	console.log('I am happy');
+}
+
+say();
