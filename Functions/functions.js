@@ -19,3 +19,9 @@ function say(){
 }
 
 say();
+
+function hello(){
+	console.log('Hello everyone')
+}
+
+hello();
