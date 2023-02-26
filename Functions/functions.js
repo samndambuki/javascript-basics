@@ -25,3 +25,9 @@ function hello(){
 }
 
 hello();
+
+function serious(){
+	console.log('I am serious')
+}
+
+serious();
