@@ -31,3 +31,9 @@ function serious(){
 }
 
 serious();
+
+function tuesday(){
+	console.log("Today is tuesday")
+}
+
+tuesday();
