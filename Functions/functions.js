@@ -37,3 +37,9 @@ function tuesday(){
 }
 
 tuesday();
+
+function thursday(){
+	console.log("Today is Thursday")
+}
+
+thursday();
