@@ -43,3 +43,9 @@ function thursday(){
 }
 
 thursday();
+
+function friday() {
+	console.log("Today is Friday")
+}
+
+friday();
