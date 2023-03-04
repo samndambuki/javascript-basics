@@ -49,3 +49,9 @@ function friday() {
 }
 
 friday();
+
+function saturday(){
+	console.log("Today is Saturday")
+}
+
+saturday();
