@@ -55,3 +55,9 @@ function saturday(){
 }
 
 saturday();
+
+function Sunday(){
+	console.log("Sunday")
+}
+
+Sunday();
