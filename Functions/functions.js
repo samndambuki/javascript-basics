@@ -61,3 +61,10 @@ function Sunday(){
 }
 
 Sunday();
+
+
+function monday(){
+	console.log("Today is Monday")
+}
+
+monday();
