@@ -68,3 +68,7 @@ function monday(){
 }
 
 monday();
+
+function thursday(){
+	console.log("thursday")
+}
