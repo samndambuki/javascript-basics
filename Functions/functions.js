@@ -76,3 +76,5 @@ function thursday(){
 function Saturday(){
 	console.log("today is Saturday")
 }
+
+Saturday();
