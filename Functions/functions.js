@@ -72,3 +72,7 @@ monday();
 function thursday(){
 	console.log("thursday")
 }
+
+function Saturday(){
+	console.log("today is Saturday")
+}
