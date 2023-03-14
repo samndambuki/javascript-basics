@@ -78,3 +78,9 @@ function Saturday(){
 }
 
 Saturday();
+
+function tuesday(){
+	console.log("today is tuesday")
+}
+
+tuesday();
