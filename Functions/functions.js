@@ -84,3 +84,9 @@ function tuesday(){
 }
 
 tuesday();
+
+function wednesday(){
+	console.log("today is wednesday")
+}
+
+wednesday();
