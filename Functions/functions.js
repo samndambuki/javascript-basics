@@ -90,3 +90,9 @@ function wednesday(){
 }
 
 wednesday();
+
+function thursday(){
+	console.log('today is thursday')
+}
+
+thursday();
