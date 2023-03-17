@@ -96,3 +96,9 @@ function thursday(){
 }
 
 thursday();
+
+function friday(){
+	console.log("today is friday")
+}
+
+friday();
