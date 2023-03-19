@@ -108,3 +108,9 @@ function Saturday(){
 }
 
 Saturday();
+
+function Sunday(){
+	console.log("today is sunday")
+}
+
+Sunday();
