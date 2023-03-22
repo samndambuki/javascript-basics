@@ -126,3 +126,9 @@ function Tuesday(){
 }
 
 Tuesday();
+
+function Wednesday(){
+	console.log("today is wednesday")
+}
+
+Wednesday();
