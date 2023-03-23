@@ -132,3 +132,9 @@ function Wednesday(){
 }
 
 Wednesday();
+
+function Thursday(){
+	console.log("thursday commit")
+}
+
+Thursday();
