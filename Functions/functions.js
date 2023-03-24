@@ -138,3 +138,9 @@ function Thursday(){
 }
 
 Thursday();
+
+function Friday(){
+	console.log("today is friday")
+}
+
+Friday();
