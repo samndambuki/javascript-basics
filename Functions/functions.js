@@ -150,3 +150,9 @@ function Saturday(){
 }
 
 Saturday();
+
+function Sunday(){
+	console.log("today is Sunday")
+}
+
+Sunday();
