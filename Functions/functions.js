@@ -162,3 +162,9 @@ function Monday(){
 }
 
 Monday();
+
+function Wed(){
+	console.log("today is wednesday")
+}
+
+Wed();
