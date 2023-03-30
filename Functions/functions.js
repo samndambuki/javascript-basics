@@ -168,3 +168,9 @@ function Wed(){
 }
 
 Wed();
+
+function thur(){
+	console.log("thursday")
+}
+
+thur();
