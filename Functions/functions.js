@@ -174,3 +174,9 @@ function thur(){
 }
 
 thur();
+
+function Fird(){
+	console.log("friday")
+}
+
+Fird();
