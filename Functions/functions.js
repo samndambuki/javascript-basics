@@ -180,3 +180,9 @@ function Fird(){
 }
 
 Fird();
+
+function Break(){
+	console.log("break")
+}
+
+Break();
