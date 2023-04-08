@@ -186,3 +186,9 @@ function Break(){
 }
 
 Break();
+
+function Break1(){
+	console.log("break1")
+}
+
+Break1();
